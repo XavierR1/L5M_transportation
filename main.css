@@ -1,1 +1,23 @@
 @charset "utf-8";
+#articleleft{
+	width: 320px;
+	background: #F94447;
+	height: 600px;
+	float:left;
+	main-right:20px;
+}
+#articlecenter{
+	width: 320px;
+	background: #F0EB14;
+	height: 600px;
+	float: right;
+}
+articleright{
+	width:300px;
+		margin-right:20px;
+		padding:10px;
+		background: #19F029;
+		height:580px;
+		float:right;
+	
+}
